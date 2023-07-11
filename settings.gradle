@@ -1,0 +1,8 @@
+pluginManagement {
+    plugins {
+        id "biz.aQute.bnd.builder" version "7.0.0"
+    }
+}
+
+rootProject.name = 'analytics-handler'
+
